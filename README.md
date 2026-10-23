@@ -38,6 +38,7 @@ GitHub shows that block as a table at the top of the recipe. The index below gro
 | [Bobotie](bobotie.md) |  | claude, main, beef, south-african, baked |
 | [Bulgogi Marinade](bulgogi-marinade.md) |  | claude, sauce, beef, korean, make-ahead, mild, favorite |
 | [Bulgogi Night with Banchan](bulgogi-night-with-banchan.md) |  | claude, main, beef, korean, grilled, mild, favorite |
+| [Butternut Squash Bake](butternut-squash-bake.md) | Bob | family, side, vegetarian, baked, holiday |
 | [Cold Sesame Noodles](cold-sesame-noodles.md) |  | claude, main, noodles, vegetarian, asian, summer, quick |
 | [Creste di Gallo with Nettle-Hazelnut Pesto, Brussels Sprouts & Carrots](creste-di-gallo-nettle-hazelnut-pesto.md) |  | claude, main, pasta, vegetarian, italian, roasted |
 | [Flat Iron Steak with Chanterelle Pan Sauce](flat-iron-chanterelle-pan-sauce.md) |  | claude, main, beef, steak, mushrooms, stovetop |
@@ -59,7 +60,7 @@ GitHub shows that block as a table at the top of the recipe. The index below gro
 ## By tag
 
 - **asian** (1): [Cold Sesame Noodles](cold-sesame-noodles.md)
-- **baked** (1): [Bobotie](bobotie.md)
+- **baked** (2): [Bobotie](bobotie.md), [Butternut Squash Bake](butternut-squash-bake.md)
 - **beef** (5): [Beef and Cabbage Stir-Fry](beef-and-cabbage-stir-fry.md), [Bobotie](bobotie.md), [Bulgogi Marinade](bulgogi-marinade.md), [Bulgogi Night with Banchan](bulgogi-night-with-banchan.md), [Flat Iron Steak with Chanterelle Pan Sauce](flat-iron-chanterelle-pan-sauce.md)
 - **braise** (2): [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md)
 - **breakfast** (1): [Morel Risotto Frittata](morel-risotto-frittata.md)
@@ -69,11 +70,13 @@ GitHub shows that block as a table at the top of the recipe. The index below gro
 - **claude** (21): [Beef and Cabbage Stir-Fry](beef-and-cabbage-stir-fry.md), [Bobotie](bobotie.md), [Bulgogi Marinade](bulgogi-marinade.md), [Bulgogi Night with Banchan](bulgogi-night-with-banchan.md), [Cold Sesame Noodles](cold-sesame-noodles.md), [Creste di Gallo with Nettle-Hazelnut Pesto, Brussels Sprouts & Carrots](creste-di-gallo-nettle-hazelnut-pesto.md), [Flat Iron Steak with Chanterelle Pan Sauce](flat-iron-chanterelle-pan-sauce.md), [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Italian Herb Sausages, Garlicky Kale & Brown Sugar Acorn Squash](sausages-kale-acorn-squash.md), [Italian-Herb Pork Chops with Sautéed Apples and Roasted Delicata](italian-herb-pork-chops.md), [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md), [Miso Glazed Turnips](miso-glazed-turnips.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Napa Cabbage Slaw with Honey-Cider Vinaigrette](napa-cabbage-slaw.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md), [Pasta alla Norma](pasta-alla-norma.md), [Petrale Sole Meunière with Glazed Salad Turnips](petrale-sole-meuniere-glazed-turnips.md), [Petrale Sole Meunière with Roasted Brussels Sprouts](petrale-sole-brussels-sprouts.md), [Ricotta Gnocchi with Brown Butter, Pepitas & Basil](ricotta-gnocchi.md), [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
 - **eggs** (1): [Morel Risotto Frittata](morel-risotto-frittata.md)
 - **fall** (2): [Italian Herb Sausages, Garlicky Kale & Brown Sugar Acorn Squash](sausages-kale-acorn-squash.md), [Italian-Herb Pork Chops with Sautéed Apples and Roasted Delicata](italian-herb-pork-chops.md)
+- **family** (1): [Butternut Squash Bake](butternut-squash-bake.md)
 - **favorite** (4): [Bulgogi Marinade](bulgogi-marinade.md), [Bulgogi Night with Banchan](bulgogi-night-with-banchan.md), [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
 - **fish** (3): [Petrale Sole Meunière with Glazed Salad Turnips](petrale-sole-meuniere-glazed-turnips.md), [Petrale Sole Meunière with Roasted Brussels Sprouts](petrale-sole-brussels-sprouts.md), [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
 - **freezer** (2): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Ricotta Gnocchi with Brown Butter, Pepitas & Basil](ricotta-gnocchi.md)
 - **french** (3): [Mild Poulet Basquaise](mild-poulet-basquaise.md), [Petrale Sole Meunière with Glazed Salad Turnips](petrale-sole-meuniere-glazed-turnips.md), [Petrale Sole Meunière with Roasted Brussels Sprouts](petrale-sole-brussels-sprouts.md)
 - **grilled** (1): [Bulgogi Night with Banchan](bulgogi-night-with-banchan.md)
+- **holiday** (1): [Butternut Squash Bake](butternut-squash-bake.md)
 - **indian** (1): [Palak Paneer (Swasthi's Method)](palak-paneer.md)
 - **italian** (3): [Creste di Gallo with Nettle-Hazelnut Pesto, Brussels Sprouts & Carrots](creste-di-gallo-nettle-hazelnut-pesto.md), [Pasta alla Norma](pasta-alla-norma.md), [Ricotta Gnocchi with Brown Butter, Pepitas & Basil](ricotta-gnocchi.md)
 - **japanese** (1): [Miso Glazed Turnips](miso-glazed-turnips.md)
@@ -94,7 +97,7 @@ GitHub shows that block as a table at the top of the recipe. The index below gro
 - **salad** (1): [Napa Cabbage Slaw with Honey-Cider Vinaigrette](napa-cabbage-slaw.md)
 - **sauce** (1): [Bulgogi Marinade](bulgogi-marinade.md)
 - **sausage** (1): [Italian Herb Sausages, Garlicky Kale & Brown Sugar Acorn Squash](sausages-kale-acorn-squash.md)
-- **side** (2): [Miso Glazed Turnips](miso-glazed-turnips.md), [Napa Cabbage Slaw with Honey-Cider Vinaigrette](napa-cabbage-slaw.md)
+- **side** (3): [Butternut Squash Bake](butternut-squash-bake.md), [Miso Glazed Turnips](miso-glazed-turnips.md), [Napa Cabbage Slaw with Honey-Cider Vinaigrette](napa-cabbage-slaw.md)
 - **slow-cooker** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
 - **soup** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
 - **south-african** (1): [Bobotie](bobotie.md)
@@ -102,4 +105,4 @@ GitHub shows that block as a table at the top of the recipe. The index below gro
 - **stir-fry** (1): [Beef and Cabbage Stir-Fry](beef-and-cabbage-stir-fry.md)
 - **stovetop** (5): [Flat Iron Steak with Chanterelle Pan Sauce](flat-iron-chanterelle-pan-sauce.md), [Miso Glazed Turnips](miso-glazed-turnips.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md), [Petrale Sole Meunière with Glazed Salad Turnips](petrale-sole-meuniere-glazed-turnips.md), [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
 - **summer** (1): [Cold Sesame Noodles](cold-sesame-noodles.md)
-- **vegetarian** (8): [Cold Sesame Noodles](cold-sesame-noodles.md), [Creste di Gallo with Nettle-Hazelnut Pesto, Brussels Sprouts & Carrots](creste-di-gallo-nettle-hazelnut-pesto.md), [Miso Glazed Turnips](miso-glazed-turnips.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Napa Cabbage Slaw with Honey-Cider Vinaigrette](napa-cabbage-slaw.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md), [Pasta alla Norma](pasta-alla-norma.md), [Ricotta Gnocchi with Brown Butter, Pepitas & Basil](ricotta-gnocchi.md)
+- **vegetarian** (9): [Butternut Squash Bake](butternut-squash-bake.md), [Cold Sesame Noodles](cold-sesame-noodles.md), [Creste di Gallo with Nettle-Hazelnut Pesto, Brussels Sprouts & Carrots](creste-di-gallo-nettle-hazelnut-pesto.md), [Miso Glazed Turnips](miso-glazed-turnips.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Napa Cabbage Slaw with Honey-Cider Vinaigrette](napa-cabbage-slaw.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md), [Pasta alla Norma](pasta-alla-norma.md), [Ricotta Gnocchi with Brown Butter, Pepitas & Basil](ricotta-gnocchi.md)
