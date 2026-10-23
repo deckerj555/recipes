@@ -37,3 +37,21 @@ original: https://claude.ai/chat/b4604b81-3701-4d8a-8702-715451ff3377
 ## Notes
 
 Delicata skin is thin enough to eat, so there's no need to peel it. The chops come about two to a pound, so plan on two packs for four people. If the chops are thinner than 3/4 inch, cut the sear to 2–3 minutes per side. If the Brussels sprouts are large, quarter them so they cook in the same time as the squash.
+
+## Using plain (unseasoned) chops
+
+If the chops aren't pre-seasoned, the bigger lever is salting, not the herbs. **Dry-brine them:** about 3/4 teaspoon of kosher salt per chop, on all sides, then leave them uncovered on a rack in the fridge for at least 45 minutes and up to overnight. That seasons the interior and dries the surface, which is what gets you a real crust. If you do this, don't salt again at the pan.
+
+For the Italian-herb part, mix and rub on just before searing (enough for four chops):
+
+- 1 tsp **fennel seed**, lightly crushed — this is the one that actually makes it read as Italian pork sausage seasoning. Don't skip it.
+- 1 tsp dried rosemary, crumbled
+- 1 tsp dried oregano
+- ½ tsp dried sage
+- ½ tsp dried thyme
+- ½ tsp garlic powder
+- ½ tsp black pepper
+
+Crushing the fennel in a mortar or under a pan bottom wakes it up considerably. Toasting the whole seeds in a dry pan for a minute first is better still.
+
+Garlic powder darkens, so keep the sear at medium-high rather than ripping hot. And since the chops aren't pre-seasoned, the fresh thyme in the pan sauce matters more — if you skipped buying it, a pinch of the dry rub stirred into the sauce covers it.
