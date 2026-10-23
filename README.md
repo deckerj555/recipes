@@ -36,6 +36,7 @@ GitHub shows that block as a table at the top of the recipe. The index below gro
 |---|---|---|
 | [Bobotie](bobotie.md) |  | claude, main, beef, south-african, baked |
 | [Bulgogi Marinade](bulgogi-marinade.md) |  | claude, sauce, beef, korean, make-ahead, mild, favorite |
+| [Bulgogi Night with Banchan](bulgogi-night-with-banchan.md) |  | claude, main, beef, korean, grilled, mild, favorite |
 | [Cold Sesame Noodles](cold-sesame-noodles.md) |  | claude, main, noodles, vegetarian, asian, summer, quick |
 | [Ham Bone Lentil Soup](ham-bone-lentil-soup.md) |  | claude, main, soup, pork, leftovers, slow-cooker, freezer |
 | [Mild Chicken Chile Verde](mild-chicken-chile-verde.md) |  | claude, main, chicken, mexican, braise, mild, favorite |
@@ -51,26 +52,27 @@ GitHub shows that block as a table at the top of the recipe. The index below gro
 
 - **asian** (1): [Cold Sesame Noodles](cold-sesame-noodles.md)
 - **baked** (1): [Bobotie](bobotie.md)
-- **beef** (2): [Bobotie](bobotie.md), [Bulgogi Marinade](bulgogi-marinade.md)
+- **beef** (3): [Bobotie](bobotie.md), [Bulgogi Marinade](bulgogi-marinade.md), [Bulgogi Night with Banchan](bulgogi-night-with-banchan.md)
 - **braise** (2): [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md)
 - **breakfast** (1): [Morel Risotto Frittata](morel-risotto-frittata.md)
 - **cajun** (1): [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
 - **chicken** (2): [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md)
-- **claude** (12): [Bobotie](bobotie.md), [Bulgogi Marinade](bulgogi-marinade.md), [Cold Sesame Noodles](cold-sesame-noodles.md), [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md), [Miso Glazed Turnips](miso-glazed-turnips.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Napa Cabbage Slaw with Honey-Cider Vinaigrette](napa-cabbage-slaw.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md), [Pasta alla Norma](pasta-alla-norma.md), [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
+- **claude** (13): [Bobotie](bobotie.md), [Bulgogi Marinade](bulgogi-marinade.md), [Bulgogi Night with Banchan](bulgogi-night-with-banchan.md), [Cold Sesame Noodles](cold-sesame-noodles.md), [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md), [Miso Glazed Turnips](miso-glazed-turnips.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Napa Cabbage Slaw with Honey-Cider Vinaigrette](napa-cabbage-slaw.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md), [Pasta alla Norma](pasta-alla-norma.md), [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
 - **eggs** (1): [Morel Risotto Frittata](morel-risotto-frittata.md)
-- **favorite** (3): [Bulgogi Marinade](bulgogi-marinade.md), [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
+- **favorite** (4): [Bulgogi Marinade](bulgogi-marinade.md), [Bulgogi Night with Banchan](bulgogi-night-with-banchan.md), [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
 - **fish** (1): [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
 - **freezer** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
 - **french** (1): [Mild Poulet Basquaise](mild-poulet-basquaise.md)
+- **grilled** (1): [Bulgogi Night with Banchan](bulgogi-night-with-banchan.md)
 - **indian** (1): [Palak Paneer (Swasthi's Method)](palak-paneer.md)
 - **italian** (1): [Pasta alla Norma](pasta-alla-norma.md)
 - **japanese** (1): [Miso Glazed Turnips](miso-glazed-turnips.md)
-- **korean** (1): [Bulgogi Marinade](bulgogi-marinade.md)
+- **korean** (2): [Bulgogi Marinade](bulgogi-marinade.md), [Bulgogi Night with Banchan](bulgogi-night-with-banchan.md)
 - **leftovers** (2): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Morel Risotto Frittata](morel-risotto-frittata.md)
-- **main** (9): [Bobotie](bobotie.md), [Cold Sesame Noodles](cold-sesame-noodles.md), [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md), [Pasta alla Norma](pasta-alla-norma.md), [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
+- **main** (10): [Bobotie](bobotie.md), [Bulgogi Night with Banchan](bulgogi-night-with-banchan.md), [Cold Sesame Noodles](cold-sesame-noodles.md), [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md), [Pasta alla Norma](pasta-alla-norma.md), [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
 - **make-ahead** (1): [Bulgogi Marinade](bulgogi-marinade.md)
 - **mexican** (1): [Mild Chicken Chile Verde](mild-chicken-chile-verde.md)
-- **mild** (5): [Bulgogi Marinade](bulgogi-marinade.md), [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md), [Pasta alla Norma](pasta-alla-norma.md), [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
+- **mild** (6): [Bulgogi Marinade](bulgogi-marinade.md), [Bulgogi Night with Banchan](bulgogi-night-with-banchan.md), [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md), [Pasta alla Norma](pasta-alla-norma.md), [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
 - **mushrooms** (1): [Morel Risotto Frittata](morel-risotto-frittata.md)
 - **no-cook** (1): [Napa Cabbage Slaw with Honey-Cider Vinaigrette](napa-cabbage-slaw.md)
 - **noodles** (1): [Cold Sesame Noodles](cold-sesame-noodles.md)
