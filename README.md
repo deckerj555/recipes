@@ -41,6 +41,7 @@ GitHub shows that block as a table at the top of the recipe. The index below gro
 | [Mild Poulet Basquaise](mild-poulet-basquaise.md) |  | claude, main, chicken, french, braise, mild |
 | [Miso Glazed Turnips](miso-glazed-turnips.md) |  | claude, side, vegetarian, japanese, stovetop, quick |
 | [Morel Risotto Frittata](morel-risotto-frittata.md) |  | claude, main, breakfast, vegetarian, eggs, mushrooms, leftovers |
+| [Napa Cabbage Slaw with Honey-Cider Vinaigrette](napa-cabbage-slaw.md) |  | claude, side, salad, vegetarian, no-cook |
 | [Palak Paneer (Swasthi's Method)](palak-paneer.md) |  | claude, main, vegetarian, indian, stovetop |
 | [Pasta alla Norma](pasta-alla-norma.md) |  | claude, main, pasta, vegetarian, italian, mild |
 | [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md) |  | claude, main, fish, cajun, stovetop, mild, favorite |
@@ -54,7 +55,7 @@ GitHub shows that block as a table at the top of the recipe. The index below gro
 - **breakfast** (1): [Morel Risotto Frittata](morel-risotto-frittata.md)
 - **cajun** (1): [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
 - **chicken** (2): [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md)
-- **claude** (10): [Bobotie](bobotie.md), [Cold Sesame Noodles](cold-sesame-noodles.md), [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md), [Miso Glazed Turnips](miso-glazed-turnips.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md), [Pasta alla Norma](pasta-alla-norma.md), [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
+- **claude** (11): [Bobotie](bobotie.md), [Cold Sesame Noodles](cold-sesame-noodles.md), [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md), [Miso Glazed Turnips](miso-glazed-turnips.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Napa Cabbage Slaw with Honey-Cider Vinaigrette](napa-cabbage-slaw.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md), [Pasta alla Norma](pasta-alla-norma.md), [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
 - **eggs** (1): [Morel Risotto Frittata](morel-risotto-frittata.md)
 - **favorite** (2): [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
 - **fish** (1): [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
@@ -68,14 +69,16 @@ GitHub shows that block as a table at the top of the recipe. The index below gro
 - **mexican** (1): [Mild Chicken Chile Verde](mild-chicken-chile-verde.md)
 - **mild** (4): [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md), [Pasta alla Norma](pasta-alla-norma.md), [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
 - **mushrooms** (1): [Morel Risotto Frittata](morel-risotto-frittata.md)
+- **no-cook** (1): [Napa Cabbage Slaw with Honey-Cider Vinaigrette](napa-cabbage-slaw.md)
 - **noodles** (1): [Cold Sesame Noodles](cold-sesame-noodles.md)
 - **pasta** (1): [Pasta alla Norma](pasta-alla-norma.md)
 - **pork** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
 - **quick** (2): [Cold Sesame Noodles](cold-sesame-noodles.md), [Miso Glazed Turnips](miso-glazed-turnips.md)
-- **side** (1): [Miso Glazed Turnips](miso-glazed-turnips.md)
+- **salad** (1): [Napa Cabbage Slaw with Honey-Cider Vinaigrette](napa-cabbage-slaw.md)
+- **side** (2): [Miso Glazed Turnips](miso-glazed-turnips.md), [Napa Cabbage Slaw with Honey-Cider Vinaigrette](napa-cabbage-slaw.md)
 - **slow-cooker** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
 - **soup** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
 - **south-african** (1): [Bobotie](bobotie.md)
 - **stovetop** (3): [Miso Glazed Turnips](miso-glazed-turnips.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md), [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
 - **summer** (1): [Cold Sesame Noodles](cold-sesame-noodles.md)
-- **vegetarian** (5): [Cold Sesame Noodles](cold-sesame-noodles.md), [Miso Glazed Turnips](miso-glazed-turnips.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md), [Pasta alla Norma](pasta-alla-norma.md)
+- **vegetarian** (6): [Cold Sesame Noodles](cold-sesame-noodles.md), [Miso Glazed Turnips](miso-glazed-turnips.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Napa Cabbage Slaw with Honey-Cider Vinaigrette](napa-cabbage-slaw.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md), [Pasta alla Norma](pasta-alla-norma.md)
