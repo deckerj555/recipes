@@ -43,6 +43,7 @@ GitHub shows that block as a table at the top of the recipe. The index below gro
 | [Morel Risotto Frittata](morel-risotto-frittata.md) |  | claude, main, breakfast, vegetarian, eggs, mushrooms, leftovers |
 | [Palak Paneer (Swasthi's Method)](palak-paneer.md) |  | claude, main, vegetarian, indian, stovetop |
 | [Pasta alla Norma](pasta-alla-norma.md) |  | claude, main, pasta, vegetarian, italian, mild |
+| [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md) |  | claude, main, fish, cajun, stovetop, mild, favorite |
 
 ## By tag
 
@@ -51,19 +52,21 @@ GitHub shows that block as a table at the top of the recipe. The index below gro
 - **beef** (1): [Bobotie](bobotie.md)
 - **braise** (2): [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md)
 - **breakfast** (1): [Morel Risotto Frittata](morel-risotto-frittata.md)
+- **cajun** (1): [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
 - **chicken** (2): [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md)
-- **claude** (9): [Bobotie](bobotie.md), [Cold Sesame Noodles](cold-sesame-noodles.md), [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md), [Miso Glazed Turnips](miso-glazed-turnips.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md), [Pasta alla Norma](pasta-alla-norma.md)
+- **claude** (10): [Bobotie](bobotie.md), [Cold Sesame Noodles](cold-sesame-noodles.md), [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md), [Miso Glazed Turnips](miso-glazed-turnips.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md), [Pasta alla Norma](pasta-alla-norma.md), [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
 - **eggs** (1): [Morel Risotto Frittata](morel-risotto-frittata.md)
-- **favorite** (1): [Mild Chicken Chile Verde](mild-chicken-chile-verde.md)
+- **favorite** (2): [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
+- **fish** (1): [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
 - **freezer** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
 - **french** (1): [Mild Poulet Basquaise](mild-poulet-basquaise.md)
 - **indian** (1): [Palak Paneer (Swasthi's Method)](palak-paneer.md)
 - **italian** (1): [Pasta alla Norma](pasta-alla-norma.md)
 - **japanese** (1): [Miso Glazed Turnips](miso-glazed-turnips.md)
 - **leftovers** (2): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Morel Risotto Frittata](morel-risotto-frittata.md)
-- **main** (8): [Bobotie](bobotie.md), [Cold Sesame Noodles](cold-sesame-noodles.md), [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md), [Pasta alla Norma](pasta-alla-norma.md)
+- **main** (9): [Bobotie](bobotie.md), [Cold Sesame Noodles](cold-sesame-noodles.md), [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md), [Pasta alla Norma](pasta-alla-norma.md), [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
 - **mexican** (1): [Mild Chicken Chile Verde](mild-chicken-chile-verde.md)
-- **mild** (3): [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md), [Pasta alla Norma](pasta-alla-norma.md)
+- **mild** (4): [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md), [Pasta alla Norma](pasta-alla-norma.md), [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
 - **mushrooms** (1): [Morel Risotto Frittata](morel-risotto-frittata.md)
 - **noodles** (1): [Cold Sesame Noodles](cold-sesame-noodles.md)
 - **pasta** (1): [Pasta alla Norma](pasta-alla-norma.md)
@@ -73,6 +76,6 @@ GitHub shows that block as a table at the top of the recipe. The index below gro
 - **slow-cooker** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
 - **soup** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
 - **south-african** (1): [Bobotie](bobotie.md)
-- **stovetop** (2): [Miso Glazed Turnips](miso-glazed-turnips.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md)
+- **stovetop** (3): [Miso Glazed Turnips](miso-glazed-turnips.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md), [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
 - **summer** (1): [Cold Sesame Noodles](cold-sesame-noodles.md)
 - **vegetarian** (5): [Cold Sesame Noodles](cold-sesame-noodles.md), [Miso Glazed Turnips](miso-glazed-turnips.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md), [Pasta alla Norma](pasta-alla-norma.md)
