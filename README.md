@@ -25,7 +25,7 @@ GitHub shows that block as a table at the top of the recipe. The index below gro
 
 - *History of one recipe:* open the file on GitHub and click **History**.
 - *Link to an exact version:* on the file page press `y` (or use **…→ Copy permalink**). The link includes the commit hash and never changes.
-- *Name a version:* create a revision tag, e.g. `git tag sukiyaki-v2 && git push --tags`. A few are already set up as examples (see **Tags** on GitHub).
+- *Name a version:* create a revision tag, e.g. `git tag sukiyaki-v2 && git push --tags`. On GitHub, tags are created from **Releases → Draft a new release → Choose a tag**, pointing at the commit you want.
 
 **Editing.** Edit right on GitHub (pencil icon) or locally. Write the commit message as what changed, e.g. "Sukiyaki: cut sugar to 3 tbsp".
 
