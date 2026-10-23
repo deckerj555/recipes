@@ -35,13 +35,17 @@ GitHub shows that block as a table at the top of the recipe. The index below gro
 | Recipe | From | Tags |
 |---|---|---|
 | [Ham Bone Lentil Soup](ham-bone-lentil-soup.md) |  | claude, main, soup, pork, leftovers, slow-cooker, freezer |
+| [Palak Paneer (Swasthi's Method)](palak-paneer.md) |  | claude, main, vegetarian, indian, stovetop |
 
 ## By tag
 
-- **claude** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
+- **claude** (2): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md)
 - **freezer** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
+- **indian** (1): [Palak Paneer (Swasthi's Method)](palak-paneer.md)
 - **leftovers** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
-- **main** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
+- **main** (2): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md)
 - **pork** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
 - **slow-cooker** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
 - **soup** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
+- **stovetop** (1): [Palak Paneer (Swasthi's Method)](palak-paneer.md)
+- **vegetarian** (1): [Palak Paneer (Swasthi's Method)](palak-paneer.md)
