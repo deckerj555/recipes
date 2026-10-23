@@ -47,6 +47,7 @@ GitHub shows that block as a table at the top of the recipe. The index below gro
 | [Napa Cabbage Slaw with Honey-Cider Vinaigrette](napa-cabbage-slaw.md) |  | claude, side, salad, vegetarian, no-cook |
 | [Palak Paneer (Swasthi's Method)](palak-paneer.md) |  | claude, main, vegetarian, indian, stovetop |
 | [Pasta alla Norma](pasta-alla-norma.md) |  | claude, main, pasta, vegetarian, italian, mild |
+| [Ricotta Gnocchi with Brown Butter, Pepitas & Basil](ricotta-gnocchi.md) |  | claude, main, pasta, vegetarian, italian, make-ahead, freezer |
 | [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md) |  | claude, main, fish, cajun, stovetop, mild, favorite |
 
 ## By tag
@@ -58,26 +59,26 @@ GitHub shows that block as a table at the top of the recipe. The index below gro
 - **breakfast** (1): [Morel Risotto Frittata](morel-risotto-frittata.md)
 - **cajun** (1): [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
 - **chicken** (2): [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md)
-- **claude** (14): [Bobotie](bobotie.md), [Bulgogi Marinade](bulgogi-marinade.md), [Bulgogi Night with Banchan](bulgogi-night-with-banchan.md), [Cold Sesame Noodles](cold-sesame-noodles.md), [Creste di Gallo with Nettle-Hazelnut Pesto, Brussels Sprouts & Carrots](creste-di-gallo-nettle-hazelnut-pesto.md), [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md), [Miso Glazed Turnips](miso-glazed-turnips.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Napa Cabbage Slaw with Honey-Cider Vinaigrette](napa-cabbage-slaw.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md), [Pasta alla Norma](pasta-alla-norma.md), [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
+- **claude** (15): [Bobotie](bobotie.md), [Bulgogi Marinade](bulgogi-marinade.md), [Bulgogi Night with Banchan](bulgogi-night-with-banchan.md), [Cold Sesame Noodles](cold-sesame-noodles.md), [Creste di Gallo with Nettle-Hazelnut Pesto, Brussels Sprouts & Carrots](creste-di-gallo-nettle-hazelnut-pesto.md), [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md), [Miso Glazed Turnips](miso-glazed-turnips.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Napa Cabbage Slaw with Honey-Cider Vinaigrette](napa-cabbage-slaw.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md), [Pasta alla Norma](pasta-alla-norma.md), [Ricotta Gnocchi with Brown Butter, Pepitas & Basil](ricotta-gnocchi.md), [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
 - **eggs** (1): [Morel Risotto Frittata](morel-risotto-frittata.md)
 - **favorite** (4): [Bulgogi Marinade](bulgogi-marinade.md), [Bulgogi Night with Banchan](bulgogi-night-with-banchan.md), [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
 - **fish** (1): [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
-- **freezer** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
+- **freezer** (2): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Ricotta Gnocchi with Brown Butter, Pepitas & Basil](ricotta-gnocchi.md)
 - **french** (1): [Mild Poulet Basquaise](mild-poulet-basquaise.md)
 - **grilled** (1): [Bulgogi Night with Banchan](bulgogi-night-with-banchan.md)
 - **indian** (1): [Palak Paneer (Swasthi's Method)](palak-paneer.md)
-- **italian** (2): [Creste di Gallo with Nettle-Hazelnut Pesto, Brussels Sprouts & Carrots](creste-di-gallo-nettle-hazelnut-pesto.md), [Pasta alla Norma](pasta-alla-norma.md)
+- **italian** (3): [Creste di Gallo with Nettle-Hazelnut Pesto, Brussels Sprouts & Carrots](creste-di-gallo-nettle-hazelnut-pesto.md), [Pasta alla Norma](pasta-alla-norma.md), [Ricotta Gnocchi with Brown Butter, Pepitas & Basil](ricotta-gnocchi.md)
 - **japanese** (1): [Miso Glazed Turnips](miso-glazed-turnips.md)
 - **korean** (2): [Bulgogi Marinade](bulgogi-marinade.md), [Bulgogi Night with Banchan](bulgogi-night-with-banchan.md)
 - **leftovers** (2): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Morel Risotto Frittata](morel-risotto-frittata.md)
-- **main** (11): [Bobotie](bobotie.md), [Bulgogi Night with Banchan](bulgogi-night-with-banchan.md), [Cold Sesame Noodles](cold-sesame-noodles.md), [Creste di Gallo with Nettle-Hazelnut Pesto, Brussels Sprouts & Carrots](creste-di-gallo-nettle-hazelnut-pesto.md), [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md), [Pasta alla Norma](pasta-alla-norma.md), [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
-- **make-ahead** (1): [Bulgogi Marinade](bulgogi-marinade.md)
+- **main** (12): [Bobotie](bobotie.md), [Bulgogi Night with Banchan](bulgogi-night-with-banchan.md), [Cold Sesame Noodles](cold-sesame-noodles.md), [Creste di Gallo with Nettle-Hazelnut Pesto, Brussels Sprouts & Carrots](creste-di-gallo-nettle-hazelnut-pesto.md), [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md), [Pasta alla Norma](pasta-alla-norma.md), [Ricotta Gnocchi with Brown Butter, Pepitas & Basil](ricotta-gnocchi.md), [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
+- **make-ahead** (2): [Bulgogi Marinade](bulgogi-marinade.md), [Ricotta Gnocchi with Brown Butter, Pepitas & Basil](ricotta-gnocchi.md)
 - **mexican** (1): [Mild Chicken Chile Verde](mild-chicken-chile-verde.md)
 - **mild** (6): [Bulgogi Marinade](bulgogi-marinade.md), [Bulgogi Night with Banchan](bulgogi-night-with-banchan.md), [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md), [Pasta alla Norma](pasta-alla-norma.md), [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
 - **mushrooms** (1): [Morel Risotto Frittata](morel-risotto-frittata.md)
 - **no-cook** (1): [Napa Cabbage Slaw with Honey-Cider Vinaigrette](napa-cabbage-slaw.md)
 - **noodles** (1): [Cold Sesame Noodles](cold-sesame-noodles.md)
-- **pasta** (2): [Creste di Gallo with Nettle-Hazelnut Pesto, Brussels Sprouts & Carrots](creste-di-gallo-nettle-hazelnut-pesto.md), [Pasta alla Norma](pasta-alla-norma.md)
+- **pasta** (3): [Creste di Gallo with Nettle-Hazelnut Pesto, Brussels Sprouts & Carrots](creste-di-gallo-nettle-hazelnut-pesto.md), [Pasta alla Norma](pasta-alla-norma.md), [Ricotta Gnocchi with Brown Butter, Pepitas & Basil](ricotta-gnocchi.md)
 - **pork** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
 - **quick** (2): [Cold Sesame Noodles](cold-sesame-noodles.md), [Miso Glazed Turnips](miso-glazed-turnips.md)
 - **roasted** (1): [Creste di Gallo with Nettle-Hazelnut Pesto, Brussels Sprouts & Carrots](creste-di-gallo-nettle-hazelnut-pesto.md)
@@ -89,4 +90,4 @@ GitHub shows that block as a table at the top of the recipe. The index below gro
 - **south-african** (1): [Bobotie](bobotie.md)
 - **stovetop** (3): [Miso Glazed Turnips](miso-glazed-turnips.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md), [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md)
 - **summer** (1): [Cold Sesame Noodles](cold-sesame-noodles.md)
-- **vegetarian** (7): [Cold Sesame Noodles](cold-sesame-noodles.md), [Creste di Gallo with Nettle-Hazelnut Pesto, Brussels Sprouts & Carrots](creste-di-gallo-nettle-hazelnut-pesto.md), [Miso Glazed Turnips](miso-glazed-turnips.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Napa Cabbage Slaw with Honey-Cider Vinaigrette](napa-cabbage-slaw.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md), [Pasta alla Norma](pasta-alla-norma.md)
+- **vegetarian** (8): [Cold Sesame Noodles](cold-sesame-noodles.md), [Creste di Gallo with Nettle-Hazelnut Pesto, Brussels Sprouts & Carrots](creste-di-gallo-nettle-hazelnut-pesto.md), [Miso Glazed Turnips](miso-glazed-turnips.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Napa Cabbage Slaw with Honey-Cider Vinaigrette](napa-cabbage-slaw.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md), [Pasta alla Norma](pasta-alla-norma.md), [Ricotta Gnocchi with Brown Butter, Pepitas & Basil](ricotta-gnocchi.md)
