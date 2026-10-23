@@ -35,21 +35,25 @@ GitHub shows that block as a table at the top of the recipe. The index below gro
 | Recipe | From | Tags |
 |---|---|---|
 | [Ham Bone Lentil Soup](ham-bone-lentil-soup.md) |  | claude, main, soup, pork, leftovers, slow-cooker, freezer |
+| [Miso Glazed Turnips](miso-glazed-turnips.md) |  | claude, side, vegetarian, japanese, stovetop, quick |
 | [Morel Risotto Frittata](morel-risotto-frittata.md) |  | claude, main, breakfast, vegetarian, eggs, mushrooms, leftovers |
 | [Palak Paneer (Swasthi's Method)](palak-paneer.md) |  | claude, main, vegetarian, indian, stovetop |
 
 ## By tag
 
 - **breakfast** (1): [Morel Risotto Frittata](morel-risotto-frittata.md)
-- **claude** (3): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md)
+- **claude** (4): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Miso Glazed Turnips](miso-glazed-turnips.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md)
 - **eggs** (1): [Morel Risotto Frittata](morel-risotto-frittata.md)
 - **freezer** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
 - **indian** (1): [Palak Paneer (Swasthi's Method)](palak-paneer.md)
+- **japanese** (1): [Miso Glazed Turnips](miso-glazed-turnips.md)
 - **leftovers** (2): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Morel Risotto Frittata](morel-risotto-frittata.md)
 - **main** (3): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md)
 - **mushrooms** (1): [Morel Risotto Frittata](morel-risotto-frittata.md)
 - **pork** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
+- **quick** (1): [Miso Glazed Turnips](miso-glazed-turnips.md)
+- **side** (1): [Miso Glazed Turnips](miso-glazed-turnips.md)
 - **slow-cooker** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
 - **soup** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
-- **stovetop** (1): [Palak Paneer (Swasthi's Method)](palak-paneer.md)
-- **vegetarian** (2): [Morel Risotto Frittata](morel-risotto-frittata.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md)
+- **stovetop** (2): [Miso Glazed Turnips](miso-glazed-turnips.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md)
+- **vegetarian** (3): [Miso Glazed Turnips](miso-glazed-turnips.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md)
