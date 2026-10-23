@@ -38,6 +38,7 @@ GitHub shows that block as a table at the top of the recipe. The index below gro
 | [Cold Sesame Noodles](cold-sesame-noodles.md) |  | claude, main, noodles, vegetarian, asian, summer, quick |
 | [Ham Bone Lentil Soup](ham-bone-lentil-soup.md) |  | claude, main, soup, pork, leftovers, slow-cooker, freezer |
 | [Mild Chicken Chile Verde](mild-chicken-chile-verde.md) |  | claude, main, chicken, mexican, braise, mild, favorite |
+| [Mild Poulet Basquaise](mild-poulet-basquaise.md) |  | claude, main, chicken, french, braise, mild |
 | [Miso Glazed Turnips](miso-glazed-turnips.md) |  | claude, side, vegetarian, japanese, stovetop, quick |
 | [Morel Risotto Frittata](morel-risotto-frittata.md) |  | claude, main, breakfast, vegetarian, eggs, mushrooms, leftovers |
 | [Palak Paneer (Swasthi's Method)](palak-paneer.md) |  | claude, main, vegetarian, indian, stovetop |
@@ -48,20 +49,21 @@ GitHub shows that block as a table at the top of the recipe. The index below gro
 - **asian** (1): [Cold Sesame Noodles](cold-sesame-noodles.md)
 - **baked** (1): [Bobotie](bobotie.md)
 - **beef** (1): [Bobotie](bobotie.md)
-- **braise** (1): [Mild Chicken Chile Verde](mild-chicken-chile-verde.md)
+- **braise** (2): [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md)
 - **breakfast** (1): [Morel Risotto Frittata](morel-risotto-frittata.md)
-- **chicken** (1): [Mild Chicken Chile Verde](mild-chicken-chile-verde.md)
-- **claude** (8): [Bobotie](bobotie.md), [Cold Sesame Noodles](cold-sesame-noodles.md), [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Miso Glazed Turnips](miso-glazed-turnips.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md), [Pasta alla Norma](pasta-alla-norma.md)
+- **chicken** (2): [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md)
+- **claude** (9): [Bobotie](bobotie.md), [Cold Sesame Noodles](cold-sesame-noodles.md), [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md), [Miso Glazed Turnips](miso-glazed-turnips.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md), [Pasta alla Norma](pasta-alla-norma.md)
 - **eggs** (1): [Morel Risotto Frittata](morel-risotto-frittata.md)
 - **favorite** (1): [Mild Chicken Chile Verde](mild-chicken-chile-verde.md)
 - **freezer** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
+- **french** (1): [Mild Poulet Basquaise](mild-poulet-basquaise.md)
 - **indian** (1): [Palak Paneer (Swasthi's Method)](palak-paneer.md)
 - **italian** (1): [Pasta alla Norma](pasta-alla-norma.md)
 - **japanese** (1): [Miso Glazed Turnips](miso-glazed-turnips.md)
 - **leftovers** (2): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Morel Risotto Frittata](morel-risotto-frittata.md)
-- **main** (7): [Bobotie](bobotie.md), [Cold Sesame Noodles](cold-sesame-noodles.md), [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md), [Pasta alla Norma](pasta-alla-norma.md)
+- **main** (8): [Bobotie](bobotie.md), [Cold Sesame Noodles](cold-sesame-noodles.md), [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md), [Pasta alla Norma](pasta-alla-norma.md)
 - **mexican** (1): [Mild Chicken Chile Verde](mild-chicken-chile-verde.md)
-- **mild** (2): [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Pasta alla Norma](pasta-alla-norma.md)
+- **mild** (3): [Mild Chicken Chile Verde](mild-chicken-chile-verde.md), [Mild Poulet Basquaise](mild-poulet-basquaise.md), [Pasta alla Norma](pasta-alla-norma.md)
 - **mushrooms** (1): [Morel Risotto Frittata](morel-risotto-frittata.md)
 - **noodles** (1): [Cold Sesame Noodles](cold-sesame-noodles.md)
 - **pasta** (1): [Pasta alla Norma](pasta-alla-norma.md)
