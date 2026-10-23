@@ -44,3 +44,13 @@ original: https://claude.ai/chat/c67c3c30-f857-4e1a-bb47-288f51bf10eb
 ## Notes
 
 Fish swaps: lingcod (denser, sears beautifully) or halibut (the classic Gulf-style stand-in) both work; skip petrale sole — too delicate for the chunky base. The Louisiana shrimp version is also great: stir shrimp into the corn for the last 3–4 minutes. Traditional recipes add cayenne; this version leaves it out entirely. Market shopping: corn, okra, sweet onions, Carmen/Jimmy Nardello peppers, garlic, tomatoes, thyme, spring onions, rockfish (Tre-Fin), and Stamboom bacon are all on the current list.
+
+## Without okra
+
+Drop step 3 (browning the okra); everything else stands, with three adjustments:
+
+**Thickening.** The okra was doing real work; without it the dish comes out looser. Scrape the cobs hard — really lean on the back of the knife, that milky pulp is the body — and simmer the corn stage 5 minutes longer uncovered before the cream goes in. If it's still thin, mash a spoonful of the kernels against the side of the pan.
+
+**Peppers.** If sweet peppers aren't available, use **two poblanos** instead (mild, and a common choice in Southwest-leaning versions), or one poblano plus a red bell for color and sweetness. Char and peel the poblanos first, same as for the chile verde.
+
+**Browning.** Since the okra step provided most of the caramelization, let the corn sit undisturbed for two minutes when it first hits the pan before you start stirring.
