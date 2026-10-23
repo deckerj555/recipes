@@ -34,6 +34,7 @@ GitHub shows that block as a table at the top of the recipe. The index below gro
 
 | Recipe | From | Tags |
 |---|---|---|
+| [Bobotie](bobotie.md) |  | claude, main, beef, south-african, baked |
 | [Ham Bone Lentil Soup](ham-bone-lentil-soup.md) |  | claude, main, soup, pork, leftovers, slow-cooker, freezer |
 | [Miso Glazed Turnips](miso-glazed-turnips.md) |  | claude, side, vegetarian, japanese, stovetop, quick |
 | [Morel Risotto Frittata](morel-risotto-frittata.md) |  | claude, main, breakfast, vegetarian, eggs, mushrooms, leftovers |
@@ -41,19 +42,22 @@ GitHub shows that block as a table at the top of the recipe. The index below gro
 
 ## By tag
 
+- **baked** (1): [Bobotie](bobotie.md)
+- **beef** (1): [Bobotie](bobotie.md)
 - **breakfast** (1): [Morel Risotto Frittata](morel-risotto-frittata.md)
-- **claude** (4): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Miso Glazed Turnips](miso-glazed-turnips.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md)
+- **claude** (5): [Bobotie](bobotie.md), [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Miso Glazed Turnips](miso-glazed-turnips.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md)
 - **eggs** (1): [Morel Risotto Frittata](morel-risotto-frittata.md)
 - **freezer** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
 - **indian** (1): [Palak Paneer (Swasthi's Method)](palak-paneer.md)
 - **japanese** (1): [Miso Glazed Turnips](miso-glazed-turnips.md)
 - **leftovers** (2): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Morel Risotto Frittata](morel-risotto-frittata.md)
-- **main** (3): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md)
+- **main** (4): [Bobotie](bobotie.md), [Ham Bone Lentil Soup](ham-bone-lentil-soup.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md)
 - **mushrooms** (1): [Morel Risotto Frittata](morel-risotto-frittata.md)
 - **pork** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
 - **quick** (1): [Miso Glazed Turnips](miso-glazed-turnips.md)
 - **side** (1): [Miso Glazed Turnips](miso-glazed-turnips.md)
 - **slow-cooker** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
 - **soup** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
+- **south-african** (1): [Bobotie](bobotie.md)
 - **stovetop** (2): [Miso Glazed Turnips](miso-glazed-turnips.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md)
 - **vegetarian** (3): [Miso Glazed Turnips](miso-glazed-turnips.md), [Morel Risotto Frittata](morel-risotto-frittata.md), [Palak Paneer (Swasthi's Method)](palak-paneer.md)
