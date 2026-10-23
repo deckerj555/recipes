@@ -34,6 +34,14 @@ GitHub shows that block as a table at the top of the recipe. The index below gro
 
 | Recipe | From | Tags |
 |---|---|---|
+| [Ham Bone Lentil Soup](ham-bone-lentil-soup.md) |  | claude, main, soup, pork, leftovers, slow-cooker, freezer |
 
 ## By tag
 
+- **claude** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
+- **freezer** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
+- **leftovers** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
+- **main** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
+- **pork** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
+- **slow-cooker** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
+- **soup** (1): [Ham Bone Lentil Soup](ham-bone-lentil-soup.md)
