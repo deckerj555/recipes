@@ -4,13 +4,13 @@ from: Bob
 tags: [family, side, vegetarian, baked, holiday]
 ---
 
-# Butternut Squash Bake
+# Acorn Squash Bake
 
 ## Ingredients
 
 **Casserole**
 
-- 2 cups butternut squash, cooked & mashed (≈1½ squashes)
+- 2 cups butternut squash, cooked & mashed (≈1½ squashes) (cut in half; back @350deg for 45 min)
 - ⅓ cup butter, softened
 - ⅓ cup sugar
 - 2 eggs
