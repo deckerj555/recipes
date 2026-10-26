@@ -4,7 +4,7 @@ from: Bob
 tags: [family, side, vegetarian, baked, holiday]
 ---
 
-# Acorn Squash Bake
+# Butternut Squash Bake
 
 ## Ingredients
 
