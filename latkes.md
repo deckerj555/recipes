@@ -49,6 +49,8 @@ original: https://claude.ai/code/session_01C71v8poFxcQNBMwpZg6PDX
 
 ## Notes
 
+Chef John's video: https://www.youtube.com/watch?v=nHZsE7T7hwI
+
 Too-cool oil makes greasy latkes; if a batch soaks instead of sizzles, wait a minute between batches for the oil to recover. Applesauce keeps 3 days. Leftover latkes re-crisp on a rack at 400°F for 8 minutes. Skip the fried eggs and add Stamboom bacon if that's the mood.
 
 Market list this week: russets (Nature's Finest, 2 lb), yellow onions (Nature's Finest), 7 Mile eggs (one dozen covers the latkes, the fried eggs and the sukiyaki dip), Jonagolds (The Farmer in Odell; the sauce uses 2 lb of a 5 lb bag). Grocery: flour, oil, sour cream, lemon, chives.
