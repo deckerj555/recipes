@@ -59,6 +59,7 @@ GitHub shows that block as a table at the top of the recipe. The index below gro
 | [Petrale Sole Meunière with Glazed Salad Turnips](petrale-sole-meuniere-glazed-turnips.md) |  | claude, main, fish, french, stovetop, quick |
 | [Petrale Sole Meunière with Roasted Brussels Sprouts](petrale-sole-brussels-sprouts.md) |  | claude, main, fish, french, roasted, quick |
 | [Poached Quince with Italian Sausage & Roasted Brussels Sprouts](poached-quince-sausage-brussels.md) |  | claude, main, pork, sausage, roasted, fall, mild, make-ahead |
+| [Reverse-Seared Pork Chops with Cranberry-Apple Chutney](pork-chops-cranberry-chutney.md) |  | claude, main, pork, roasted, stovetop, fall, mild, make-ahead |
 | [Ricotta Gnocchi with Brown Butter, Pepitas & Basil](ricotta-gnocchi.md) |  | claude, main, pasta, vegetarian, italian, make-ahead, freezer |
 | [RJS Stew with Dumplings](rjs-stew.md) | RJS | family, main, beef, stovetop |
 | [Seared Rockfish over Corn & Okra Maque Choux](rockfish-maque-choux.md) |  | claude, main, fish, cajun, stovetop, mild, favorite |
