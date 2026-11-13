@@ -6,11 +6,14 @@ Family recipe collection: transcribed handwritten cards plus recipes written wit
 
 Show Jeff the commit message and a short summary of what changed, and wait for his OK. Don't push on your own initiative. Never rewrite history or force-push.
 
+The one exception is `market/`: the Thursday meal-plan task may commit and push a new weekly snapshot there (`market/YYYY-MM-DD.csv`, commit message "Market: snapshot for <date>") without waiting, since it runs unattended. That exception covers only adding a snapshot file; anything else in the repo still waits for Jeff.
+
 ## Files
 
 - One Markdown file per recipe, at the top level. No folders for recipes; tags do the organizing.
 - Filename is a lowercase hyphenated slug of the dish, short enough to read (`rockfish-maque-choux.md`, not the full title).
 - Card photos for family recipes go in `originals/` as `<slug>-front.jpg` and `<slug>-back.jpg`.
+- `market/` holds weekly catalog snapshots from the co-op, not recipes (see `market/README.md`). They don't go in the README index.
 
 ## Recipe format
 
