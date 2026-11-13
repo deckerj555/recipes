@@ -17,6 +17,7 @@ tags: [family, main, beef, japanese, stovetop]
 - 1 lb spinach, well washed, no stems
 - 4 oz bean thread
 - ½ lb firm tofu (one package)
+- Optional: 1 leek, white and light green parts, sliced 1 inch on the diagonal (not on the card)
 
 **Broth (doubled, per the card)**
 
@@ -38,6 +39,8 @@ tags: [family, main, beef, japanese, stovetop]
 ## Notes
 
 Optional: green onions, green pepper, water chestnuts.
+
+The leek isn't on the card; brown it alongside the onion in step 4. It's the negi of Japanese sukiyaki and goes sweet in the broth.
 
 Cooking order follows the numbers written on the card (onions, beef, mushrooms, bean thread, tofu, spinach on top).
 
