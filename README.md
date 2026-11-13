@@ -47,6 +47,7 @@ GitHub shows that block as a table at the top of the recipe. The index below gro
 | [Ham Bone Lentil Soup](ham-bone-lentil-soup.md) |  | claude, main, soup, pork, leftovers, slow-cooker, freezer |
 | [Italian Herb Sausages, Garlicky Kale & Brown Sugar Acorn Squash](sausages-kale-acorn-squash.md) |  | claude, main, pork, sausage, roasted, fall |
 | [Italian-Herb Pork Chops with Sautéed Apples and Roasted Delicata](italian-herb-pork-chops.md) |  | claude, main, pork, roasted, one-pan, fall |
+| [Latkes with Jonagold Applesauce and Fried Eggs](latkes.md) |  | claude, main, eggs, vegetarian, stovetop, mild |
 | [Mary Ann's Chili](mary-anns-chili.md) | Mary Ann | family, main, beef, stovetop, quick |
 | [Mild Chicken Chile Verde](mild-chicken-chile-verde.md) |  | claude, main, chicken, mexican, braise, mild, favorite |
 | [Mild Poulet Basquaise](mild-poulet-basquaise.md) |  | claude, main, chicken, french, braise, mild |
