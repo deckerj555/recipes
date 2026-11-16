@@ -12,17 +12,24 @@ tags: [family, side, vegetarian, baked, holiday]
 
 - 2 cups butternut squash, cooked & mashed (≈1½ squashes) (cut in half; back @350deg for 45 min)
 - ⅓ cup butter, softened
-- ⅓ cup sugar
+- ⅓ cup sugar (70g)
 - 2 eggs
 - 1 can (5 oz) evaporated milk
 - 1 tsp vanilla extract
 
 **Topping**
 
-- ½ cup Rice Krispies
+- ½ cup Rice Krispies 
 - ¼ cup packed brown sugar
 - ¼ cup chopped pecans
 - 2 tbsp melted butter
+
+**Toppings Doubled**
+- 27g rice krispies
+- 60g pecans
+- 90g brown sugar
+- 4 tbsp melted butter 
+
 
 ## Steps
 
