@@ -1,7 +1,7 @@
 ---
 title: Shrimp Jambalaya
 serves: 4
-tags: [claude, main, sausage, seafood, cajun, stovetop]
+tags: [claude, martha-stewart, main, sausage, seafood, cajun, stovetop]
 original: https://claude.ai/code/session_016vwY7qCiaP3VUf51pTUrc8
 ---
 
@@ -36,7 +36,7 @@ original: https://claude.ai/code/session_016vwY7qCiaP3VUf51pTUrc8
 
 ## Notes
 
-From a clipped recipe page ("Skillet Dinners"), source unknown. Changes from the printed version, per Jeff's notes on the page:
+From Martha Stewart's "Shrimp Jambalaya" (a clipped "Skillet Dinners" page). Changes from the printed version, per Jeff's notes on the page:
 
 - Sausage raised from 6 oz to 16 oz (an earlier margin note says 8).
 - One 15 oz can of diced tomatoes instead of 8 fresh plum tomatoes, seeded and chopped.
