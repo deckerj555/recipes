@@ -28,7 +28,7 @@ tags: [family, side, vegetarian, baked, holiday]
 
 1. **Cream butter & sugar.** Cream butter and sugar.
 2. **Beat in wet ingredients.** Beat in eggs, evaporated milk and vanilla.
-3. **Stir in squash.** Stir in butternut squash. (Mixture will be thin.)
+3. **Purée Mixture.** Stir in butternut squash and purée. (Mixture will be thin.)
 4. **Pour into pan.** Pour into a greased 11x7x2 pan.
 5. **Bake.** Bake uncovered at 375°F for 40–45 min (top-of-card note). Original instruction at bottom of card: 45 min at 350°F. *(timer: 45 min)*
 6. **Make topping.** Combine Rice Krispies, packed brown sugar, chopped pecans and melted butter. Sprinkle over casserole.
