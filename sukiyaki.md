@@ -11,9 +11,9 @@ tags: [family, main, beef, japanese, stovetop]
 
 **Platter**
 
-- 1 lb beef tenderloin, cut in thin slices
+- 1 lb beef tenderloin, cut in thin slices (or ribeye)--have the butcher slice thin from a roast
 - 1 large onion, cut in ¼" slices x 1" long
-- ½ lb mushrooms, sliced
+- ½ lb mushrooms, sliced (shiitake work well)
 - 1 lb spinach, well washed, no stems
 - 4 oz bean thread
 - ½ lb firm tofu (one package)
@@ -21,10 +21,10 @@ tags: [family, main, beef, japanese, stovetop]
 
 **Broth (doubled, per the card)**
 
-- 1 cup soy sauce
-- 4 tbsp sugar
-- 1 cup beef broth
-- ½ cup water (½–1 c), plus more as needed
+- 1 cup soy sauce, 240g
+- 2 tbsp sugar, 90g (not doubled)
+- 1 cup beef broth, 240g
+- ½ cup water (½–1 c), plus more as needed, 120g
 
 ## Steps
 
