@@ -10,9 +10,10 @@ The one exception is `market/`: the Thursday meal-plan task may commit and push 
 
 ## Files
 
-- One Markdown file per recipe, at the top level. No folders for recipes; tags do the organizing.
+- One Markdown file per recipe, at the top level. No folders for recipes (except `archive/`); tags do the organizing.
 - Filename is a lowercase hyphenated slug of the dish, short enough to read (`rockfish-maque-choux.md`, not the full title).
 - Card photos for family recipes go in `originals/` as `<slug>-front.jpg` and `<slug>-back.jpg`.
+- `archive/` holds retired recipes, moved there with `git mv` so history follows. They stay listed in the README's Archive table, not the Recipes table or tag index. Don't suggest archived recipes for meal plans.
 - `market/` holds weekly catalog snapshots from the co-op, not recipes (see `market/README.md`). They don't go in the README index.
 
 ## Recipe format
