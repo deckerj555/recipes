@@ -32,7 +32,7 @@ original: https://claude.ai/chat/<id>
 
 ## Ingredients
 
-- quantity, then ingredient, then prep ("2 carrots, sliced thin on a sharp diagonal")
+- quantity, then ingredient, then prep ("2 carrots, sliced thin on a sharp diagonal", "250 g flour (2 cups)")
 
 ## Steps
 
@@ -45,6 +45,7 @@ Swaps, sourcing, make-ahead, what to watch for.
 
 - Front matter fields, in this order: `title`, `from` (family recipes only: who the card came from), `serves` (if known), `tags`, `original` (Claude recipes only: link to the chat it came from).
 - The `# ` heading matches `title`.
+- Measure by weight in grams, with the traditional volume in parentheses: "250 g flour (2 cups)", "240 g water (1 cup)". Liquids are in grams too. Small amounts like spices, salt and baking powder stay in tsp/tbsp. Countable items stay as counts ("2 carrots", "3 garlic cloves"), with a weight added when size matters ("1 medium onion (about 200 g)"). On family recipes, the card's volume is the one in parentheses.
 - Every step that involves waiting, cooking, resting or chilling ends with `*(timer: …)*`.
 - A variant gets its own `## ` section after Notes ("## Without okra", "## Slow-cooker version") instead of a second file.
 - Family recipes end with `## Original card` showing the photos. Transcribe the card's final version: honor handwritten corrections over the printed text.
