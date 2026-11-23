@@ -13,12 +13,12 @@ original: https://claude.ai/code/session_01C71v8poFxcQNBMwpZg6PDX
 
 **Chutney** (makes about 2 cups)
 
-- 8 oz fresh cranberries (one ½ lb bag), rinsed and picked over
-- 1 Jonagold apple, peeled, cored, diced ½ inch
-- 1 shallot, minced
-- ½ cup packed brown sugar
-- ⅓ cup apple cider vinegar
-- ¼ cup water
+- 225 g fresh cranberries (about 2 cups; one ½ lb bag), rinsed and picked over
+- 1 Jonagold apple (about 200 g), peeled, cored, diced ½ inch
+- 1 shallot (about 40 g), minced
+- 110 g packed brown sugar (½ cup)
+- 80 g apple cider vinegar (⅓ cup)
+- 60 g water (¼ cup)
 - Zest and juice of ½ orange
 - ½ tsp fennel seed, lightly crushed
 - ¼ tsp kosher salt
@@ -28,11 +28,11 @@ original: https://claude.ai/code/session_01C71v8poFxcQNBMwpZg6PDX
 
 - 4 Stamboom Italian-herb pork chops (bone-in, about 1 inch thick; two packs)
 - 1 tsp kosher salt, divided
-- 1 lb Brussels sprouts, trimmed and halved (quartered if large)
-- 2 tbsp olive oil
+- 450 g Brussels sprouts (1 lb), trimmed and halved (quartered if large)
+- 27 g olive oil (2 tbsp)
 - ½ tsp black pepper
-- 1 tbsp neutral oil, for searing
-- 2 tbsp butter
+- 14 g neutral oil (1 tbsp), for searing
+- 28 g butter (2 tbsp)
 - 2 garlic cloves, smashed
 
 ## Steps
