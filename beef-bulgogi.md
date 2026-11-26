@@ -47,6 +47,15 @@ The hot chili sesame oil brings some heat. For a milder version, use plain toast
 
 The pen scribble over the steps doesn't change any words. It covers the first-batch time in step 5, which reads as "about 2 minutes" on the printed page.
 
+## With the house bulgogi marinade
+
+Use one batch of [Bulgogi Marinade](bulgogi-marinade.md) in place of the soy sauce, hot chili sesame oil, brown sugar, garlic and ginger. A batch is sized for 2 lb of beef. If there are no Asian pears, a ripe Comice works. This version has no chili, so it's mild.
+
+1. **Make the marinade.** Set aside 60 g (¼ cup) for the vegetables before any beef goes in.
+2. **Freeze and slice the beef** as in steps 1–2. *(timer: 20 min)*
+3. **Marinate.** Toss the beef with the rest of the marinade and refrigerate. The pear needs hours to tenderize; past about 12 hours its enzymes make the beef mushy. Start around 2–3 pm for a 6 pm dinner. *(timer: 2–4 hr)*
+4. **Cook.** Toss the onion and peppers with the reserved marinade, then follow steps 4–7. Let the extra marinade drip off the beef before it goes in the pan: the grated pear and onion scorch, and wet beef steams instead of browning.
+
 ## Original page
 
 ![Recipe page with notes](originals/beef-bulgogi-front.jpg)
