@@ -54,3 +54,26 @@ Chef John's video: https://www.youtube.com/watch?v=nHZsE7T7hwI
 Too-cool oil makes greasy latkes; if a batch soaks instead of sizzles, wait a minute between batches for the oil to recover. Applesauce keeps 3 days. Leftover latkes re-crisp on a rack at 400°F for 8 minutes. Skip the fried eggs and add Stamboom bacon if that's the mood.
 
 Market list this week: russets (Nature's Finest, 2 lb), yellow onions (Nature's Finest), 7 Mile eggs (one dozen covers the latkes, the fried eggs and the sukiyaki dip), Jonagolds (The Farmer in Odell; the sauce uses 2 lb of a 5 lb bag). Grocery: flour, oil, sour cream, lemon, chives.
+
+## Extra-crisp version
+
+America's Test Kitchen's method (as run by PBS SoCal: https://www.pbssocal.org/food-discovery/food/weekend-recipe-crispy-potato-latkes) with Bon Appétit's added potato starch and whole onion (https://www.bonappetit.com/recipe/classic-potato-latkes). There's no flour. The binder is the potato's own settled starch plus 38 g of store-bought potato starch, which soaks up the last of the moisture and fries up crisper than flour. A quick microwave sets the starch in the shreds so they release less water in the oil. Use it in place of the latke ingredients and steps above; the applesauce, fried eggs and toppings stay the same.
+
+- 900 g russet potatoes (2 lb, 3–4 medium), unpeeled, scrubbed
+- 1 large onion
+- 1½ tsp kosher salt (Diamond Crystal; 1 tsp if Morton), divided, plus more to finish
+- ½ tsp black pepper
+- 2 large eggs
+- 38 g potato starch (¼ cup)
+- 2 tsp minced fresh parsley (optional)
+- Neutral oil, ¼ inch deep in the skillet
+
+1. **Set up.** Heat the oven to 200°F with a wire rack set in a sheet pan inside, to hold finished latkes.
+2. **Grate and wring.** Grate the potatoes and onion on the large holes of a box grater or the food processor's coarse shredding disc, and toss with 1 tsp of the salt. Wring half at a time in a clean kitchen towel, as hard as you can, catching the liquid in a measuring cup. Move the wrung shreds to a second bowl. Let the liquid stand so its starch settles. *(timer: 5 min)*
+3. **Microwave.** Cover the shreds and microwave until just warm, not hot, stirring with a fork every 30 seconds. This gels the starch so less water leaks out in the oil. *(timer: 1–2 min)*
+4. **Cool.** Spread the shreds on a sheet pan to cool so they don't scramble the eggs. Don't wash the bowl. *(timer: 10 min)*
+5. **Mix.** Pour the water off the settled liquid, keeping the white starch in the cup. Whisk in the eggs until smooth. Return the shreds to the bowl with the egg-starch mix, the potato starch, the remaining ½ tsp salt, the pepper and the parsley, and mix with your hands until even.
+6. **Fry.** Heat ¼ inch of oil in a 12-inch cast-iron skillet over medium-high until a shred sizzles on contact (350°F). Drop in ¼-cup mounds, four or five per batch, and press each into a ⅓-inch disc. Fry until deep golden, adjusting the heat so the oil bubbles around the edges, then flip and fry the second side the same. Move to the rack in the oven. Top up the oil to ¼ inch and let it come back to 350°F between batches. *(timer: 3 min)* per side.
+7. **Season and serve.** Salt the latkes while hot and serve right away.
+
+Potato starch is in the baking or gluten-free aisle (Bob's Red Mill), not the same as cornstarch, though cornstarch works in a pinch. Fried latkes freeze in a bag for up to a month. Reheat at 375°F on a rack: 3 minutes per side from room temperature, 6 per side from frozen.
